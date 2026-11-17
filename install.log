@@ -1,0 +1,17 @@
+[install] project root     : C:\Users\srika\SF2-LAN
+[install] found installed package via Get-AppxPackage: Famobi.ShadowFight2_1.0.6.0_x64__5y4rhc0xaat4m
+[install] source (READ-ONLY): C:\Program Files\WindowsApps\Famobi.ShadowFight2_1.0.6.0_x64__5y4rhc0xaat4m\www
+[install] copying game files (first run: ~578 MB / 4.8k files, please wait)...
+[install] copy done: 2 copied, 4874 reused, 4876 files, 0.4s
+[install] patch index.html  : inserted lan-pre.js before boot script
+[install] patch famobi.json : features.standalone=true, ads off
+[install] overlay           : 3 overlay files -> game\lan\
+
+[install] done.
+  game folder      : C:\Users\srika\SF2-LAN\game (578.8 MB)
+  sf2.502f0946.js          sha256 604342b771b51375...
+  windows-game-interface.js sha256 cd41c8805fa86b94...
+  original package : C:\Program Files\WindowsApps\Famobi.ShadowFight2_1.0.6.0_x64__5y4rhc0xaat4m <- never written to
+
+Next: double-click mod\launcher\Play.cmd
+
